@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:39:49.088Z",
+  "generated_at": "2026-11-21T09:39:50.856Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -494,6 +494,32 @@
       "last_pushed_at": "2026-03-21T20:25:39.274Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-03-22T12:36:48.885Z",
+      "last_pushed_at": "2026-03-22T12:36:48.885Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-03-22T12:58:30.918Z",
+      "last_pushed_at": "2026-03-22T12:58:30.918Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
