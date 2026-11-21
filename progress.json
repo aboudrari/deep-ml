@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:40:03.091Z",
+  "generated_at": "2026-11-21T09:40:04.737Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -689,6 +689,32 @@
       "last_pushed_at": "2026-03-30T19:36:44.160Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2026-03-31T18:40:42.488Z",
+      "last_pushed_at": "2026-03-31T18:40:42.488Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:168": {
+      "kind": "problem",
+      "id": "168",
+      "title": "Calculate Conditional Probability from Data",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/168",
+      "path": "problems/0168-calculate-conditional-probability-from-data",
+      "first_solved_at": "2026-03-31T19:39:33.981Z",
+      "last_pushed_at": "2026-03-31T19:39:33.981Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
