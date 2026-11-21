@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:34:37.867Z",
+  "generated_at": "2026-11-21T10:34:39.664Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -871,6 +871,32 @@
       "last_pushed_at": "2026-05-13T17:57:49.280Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-05-14T17:21:54.620Z",
+      "last_pushed_at": "2026-05-14T17:21:54.620Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:108": {
+      "kind": "problem",
+      "id": "108",
+      "title": "Measure Disorder in Apple Colors",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/108",
+      "path": "problems/0108-measure-disorder-in-apple-colors",
+      "first_solved_at": "2026-05-14T17:50:47.173Z",
+      "last_pushed_at": "2026-05-14T17:50:47.173Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
