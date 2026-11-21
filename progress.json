@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:40:12.926Z",
+  "generated_at": "2026-11-21T10:34:32.504Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -793,6 +793,32 @@
       "last_pushed_at": "2026-05-06T19:03:52.130Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:797": {
+      "kind": "problem",
+      "id": "797",
+      "title": "Macro-Average Accuracy Across Benchmark Subtasks",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/797",
+      "path": "problems/0797-macro-average-accuracy-across-benchmark-subtasks",
+      "first_solved_at": "2026-05-10T15:20:39.411Z",
+      "last_pushed_at": "2026-05-10T15:20:39.411Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:833": {
+      "kind": "problem",
+      "id": "833",
+      "title": "Macro F1 Score for Multi-Class Classification",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/833",
+      "path": "problems/0833-macro-f1-score-for-multi-class-classification",
+      "first_solved_at": "2026-05-10T18:19:35.367Z",
+      "last_pushed_at": "2026-05-10T18:19:35.367Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
