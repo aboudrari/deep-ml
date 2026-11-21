@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:39:54.399Z",
+  "generated_at": "2026-11-21T09:39:56.140Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -585,6 +585,32 @@
       "last_pushed_at": "2026-03-24T18:40:24.768Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:64": {
+      "kind": "problem",
+      "id": "64",
+      "title": "Implement Gini Impurity Calculation for a Set of Classes",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/64",
+      "path": "problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes",
+      "first_solved_at": "2026-03-25T08:59:14.613Z",
+      "last_pushed_at": "2026-03-25T08:59:14.613Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:77": {
+      "kind": "problem",
+      "id": "77",
+      "title": "Calculate Performance Metrics for a Classification Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/77",
+      "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
+      "first_solved_at": "2026-03-25T19:57:58.034Z",
+      "last_pushed_at": "2026-03-25T19:57:58.034Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
