@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**87** solved · 87 problems · 0 labs · 0 math
+**88** solved · 88 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -99,6 +99,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-05-26 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Weighted F1 Score for Multi-Class Classification](https://www.deep-ml.com/problems/835) | medium | 2026-06-02 | [solution](problems/0835-weighted-f1-score-for-multi-class-classification) |
+| [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-06-18 | [solution](problems/0020-decision-tree-learning) |
 
 ---
 
