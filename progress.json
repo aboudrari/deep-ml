@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:40:04.737Z",
+  "generated_at": "2026-11-21T09:40:06.402Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -715,6 +715,32 @@
       "last_pushed_at": "2026-03-31T19:39:33.981Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:244": {
+      "kind": "problem",
+      "id": "244",
+      "title": "Compute Total Probability using Law of Total Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/244",
+      "path": "problems/0244-compute-total-probability-using-law-of-total-probability",
+      "first_solved_at": "2026-04-01T10:30:43.835Z",
+      "last_pushed_at": "2026-04-01T10:30:43.835Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2026-04-01T15:13:45.680Z",
+      "last_pushed_at": "2026-04-01T15:13:45.680Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
