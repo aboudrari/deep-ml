@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:39:47.393Z",
+  "generated_at": "2026-11-21T09:39:49.088Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -455,6 +455,45 @@
       "last_pushed_at": "2026-03-20T20:41:20.693Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2026-03-21T12:04:39.946Z",
+      "last_pushed_at": "2026-03-21T12:04:39.946Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-03-21T19:53:39.711Z",
+      "last_pushed_at": "2026-03-21T19:53:39.711Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-03-21T20:25:39.274Z",
+      "last_pushed_at": "2026-03-21T20:25:39.274Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
