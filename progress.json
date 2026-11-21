@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:39:16.076Z",
+  "generated_at": "2026-11-21T09:39:18.107Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -39,6 +39,45 @@
       "last_pushed_at": "2026-03-01T21:45:32.195Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-03-02T16:50:54.152Z",
+      "last_pushed_at": "2026-03-02T16:50:54.152Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-03-02T18:10:29.646Z",
+      "last_pushed_at": "2026-03-02T18:10:29.646Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-03-02T18:34:04.548Z",
+      "last_pushed_at": "2026-03-02T18:34:04.548Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
