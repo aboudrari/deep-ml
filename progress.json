@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:34:34.502Z",
+  "generated_at": "2026-11-21T10:34:36.034Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -832,6 +832,32 @@
       "last_pushed_at": "2026-05-11T10:10:47.841Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:91": {
+      "kind": "problem",
+      "id": "91",
+      "title": "Calculate F1 Score from Predicted and True Labels",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/91",
+      "path": "problems/0091-calculate-f1-score-from-predicted-and-true-labels",
+      "first_solved_at": "2026-05-12T10:15:01.791Z",
+      "last_pushed_at": "2026-05-12T10:15:01.791Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2026-05-12T11:17:46.418Z",
+      "last_pushed_at": "2026-05-12T11:17:46.418Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
