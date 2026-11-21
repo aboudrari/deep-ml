@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**84** solved · 84 problems · 0 labs · 0 math
+**85** solved · 85 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -85,6 +85,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-03-09 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-03-18 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-04-01 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-06-04 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-05-13 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-05-22 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-05-24 | [solution](problems/0306-implement-soft-voting-classifier) |
