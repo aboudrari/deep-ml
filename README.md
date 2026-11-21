@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**78** solved · 78 problems · 0 labs · 0 math
+**79** solved · 79 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -84,6 +84,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-04-01 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-05-13 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-05-22 | [solution](problems/0276-implement-roc-curve-calculation) |
+| [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-05-24 | [solution](problems/0306-implement-soft-voting-classifier) |
 | [Macro F1 Score for Multi-Class Classification](https://www.deep-ml.com/problems/833) | medium | 2026-05-10 | [solution](problems/0833-macro-f1-score-for-multi-class-classification) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-03-08 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-03-06 | [solution](problems/0007-matrix-transformation) |

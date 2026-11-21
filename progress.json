@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:34:56.181Z",
+  "generated_at": "2026-11-21T10:34:57.770Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -1014,6 +1014,19 @@
       "last_pushed_at": "2026-05-23T11:11:14.881Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:306": {
+      "kind": "problem",
+      "id": "306",
+      "title": "Implement Soft Voting Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/306",
+      "path": "problems/0306-implement-soft-voting-classifier",
+      "first_solved_at": "2026-05-24T12:07:53.498Z",
+      "last_pushed_at": "2026-05-24T12:07:53.498Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
