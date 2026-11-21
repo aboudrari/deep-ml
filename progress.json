@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:35:13.231Z",
+  "generated_at": "2026-11-21T10:35:14.886Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -1144,6 +1144,123 @@
       "last_pushed_at": "2026-06-18T14:05:18.719Z",
       "language": "python",
       "lines": 58
+    },
+    "problem:1101": {
+      "kind": "problem",
+      "id": "1101",
+      "title": "SELECT all rows",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1101",
+      "path": "problems/1101-select-all-rows",
+      "first_solved_at": "2026-06-30T19:08:57.860Z",
+      "last_pushed_at": "2026-06-30T19:08:57.860Z",
+      "language": "sql",
+      "lines": 3
+    },
+    "problem:1102": {
+      "kind": "problem",
+      "id": "1102",
+      "title": "Select specific columns",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1102",
+      "path": "problems/1102-select-specific-columns",
+      "first_solved_at": "2026-06-30T19:09:40.823Z",
+      "last_pushed_at": "2026-06-30T19:09:40.823Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1103": {
+      "kind": "problem",
+      "id": "1103",
+      "title": "Filter rows with WHERE",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1103",
+      "path": "problems/1103-filter-rows-with-where",
+      "first_solved_at": "2026-06-30T19:10:28.780Z",
+      "last_pushed_at": "2026-06-30T19:10:28.780Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1104": {
+      "kind": "problem",
+      "id": "1104",
+      "title": "Sort results with ORDER BY",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1104",
+      "path": "problems/1104-sort-results-with-order-by",
+      "first_solved_at": "2026-06-30T19:11:49.149Z",
+      "last_pushed_at": "2026-06-30T19:11:49.149Z",
+      "language": "sql",
+      "lines": 5
+    },
+    "problem:1105": {
+      "kind": "problem",
+      "id": "1105",
+      "title": "Remove duplicates with DISTINCT",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1105",
+      "path": "problems/1105-remove-duplicates-with-distinct",
+      "first_solved_at": "2026-06-30T19:30:54.082Z",
+      "last_pushed_at": "2026-06-30T19:30:54.082Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1106": {
+      "kind": "problem",
+      "id": "1106",
+      "title": "Top N with LIMIT",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1106",
+      "path": "problems/1106-top-n-with-limit",
+      "first_solved_at": "2026-06-30T19:32:32.917Z",
+      "last_pushed_at": "2026-06-30T19:32:32.917Z",
+      "language": "sql",
+      "lines": 5
+    },
+    "problem:1107": {
+      "kind": "problem",
+      "id": "1107",
+      "title": "Count rows per group",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1107",
+      "path": "problems/1107-count-rows-per-group",
+      "first_solved_at": "2026-06-30T19:33:26.509Z",
+      "last_pushed_at": "2026-06-30T19:33:26.509Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1108": {
+      "kind": "problem",
+      "id": "1108",
+      "title": "Average per group",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1108",
+      "path": "problems/1108-average-per-group",
+      "first_solved_at": "2026-06-30T19:34:22.966Z",
+      "last_pushed_at": "2026-06-30T19:34:22.966Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1109": {
+      "kind": "problem",
+      "id": "1109",
+      "title": "Your first JOIN",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1109",
+      "path": "problems/1109-your-first-join",
+      "first_solved_at": "2026-06-30T19:35:13.800Z",
+      "last_pushed_at": "2026-06-30T19:35:13.800Z",
+      "language": "sql",
+      "lines": 4
     }
   }
 }
