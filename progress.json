@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:39:30.316Z",
+  "generated_at": "2026-11-21T09:39:32.018Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -208,6 +208,71 @@
       "last_pushed_at": "2026-03-09T10:13:56.384Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-03-10T09:00:22.448Z",
+      "last_pushed_at": "2026-03-10T09:00:22.448Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-03-10T09:18:33.850Z",
+      "last_pushed_at": "2026-03-10T09:18:33.850Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-03-10T11:46:44.239Z",
+      "last_pushed_at": "2026-03-10T11:46:44.239Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-03-10T12:28:39.127Z",
+      "last_pushed_at": "2026-03-10T12:28:39.127Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-03-10T19:06:10.142Z",
+      "last_pushed_at": "2026-03-10T19:06:10.142Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
