@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:39:40.624Z",
+  "generated_at": "2026-11-21T09:39:42.342Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -351,6 +351,45 @@
       "last_pushed_at": "2026-03-15T12:09:15.675Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-03-17T20:46:27.441Z",
+      "last_pushed_at": "2026-03-17T20:46:27.441Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-03-17T20:58:06.146Z",
+      "last_pushed_at": "2026-03-17T20:58:06.146Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-03-17T21:02:08.990Z",
+      "last_pushed_at": "2026-03-17T21:02:08.990Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }

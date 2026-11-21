@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 27 problems · 0 labs · 0 math
+**30** solved · 30 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-03-04 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-03-14 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2026-03-11 | [solution](problems/0095-calculate-the-phi-coefficient) |
+| [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-03-17 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-03-08 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-03-10 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-03-10 | [solution](problems/0078-descriptive-statistics-calculator) |
@@ -29,9 +30,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-03-01 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-11-20 | [solution](problems/0146-momentum-optimizer) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-03-10 | [solution](problems/0081-poisson-distribution-probability-calculator) |
+| [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-03-17 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-03-03 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-03-02 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-03-02 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-03-17 | [solution](problems/0121-vector-element-wise-sum) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-03-10 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-03-07 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-11-20 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
