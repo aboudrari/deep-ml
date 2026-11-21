@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:34:45.096Z",
+  "generated_at": "2026-11-21T10:34:46.914Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -936,6 +936,19 @@
       "last_pushed_at": "2026-05-17T11:22:03.877Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:834": {
+      "kind": "problem",
+      "id": "834",
+      "title": "Micro F1 Score for Multi-Label Classification",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/834",
+      "path": "problems/0834-micro-f1-score-for-multi-label-classification",
+      "first_solved_at": "2026-05-18T11:36:17.558Z",
+      "last_pushed_at": "2026-05-18T11:36:17.558Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
