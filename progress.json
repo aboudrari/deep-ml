@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:39:33.835Z",
+  "generated_at": "2026-11-21T09:39:35.459Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -286,6 +286,32 @@
       "last_pushed_at": "2026-03-11T20:16:36.204Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-03-12T10:47:02.140Z",
+      "last_pushed_at": "2026-03-12T10:47:02.140Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-03-12T18:52:25.772Z",
+      "last_pushed_at": "2026-03-12T18:52:25.772Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
