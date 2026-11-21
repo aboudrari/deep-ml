@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:39:26.631Z",
+  "generated_at": "2026-11-21T09:39:28.534Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -156,6 +156,45 @@
       "last_pushed_at": "2026-03-07T20:55:07.332Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-03-08T09:30:03.963Z",
+      "last_pushed_at": "2026-03-08T09:30:03.963Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-03-08T09:52:40.821Z",
+      "last_pushed_at": "2026-03-08T09:52:40.821Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-03-08T17:44:54.345Z",
+      "last_pushed_at": "2026-03-08T17:44:54.345Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
