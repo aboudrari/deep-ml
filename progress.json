@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:35:04.760Z",
+  "generated_at": "2026-11-21T10:35:06.483Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -1077,6 +1077,19 @@
       "path": "problems/0198-implement-weight-decay-as-l2-regularization",
       "first_solved_at": "2026-05-31T18:09:27.395Z",
       "last_pushed_at": "2026-05-31T18:09:27.395Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:835": {
+      "kind": "problem",
+      "id": "835",
+      "title": "Weighted F1 Score for Multi-Class Classification",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/835",
+      "path": "problems/0835-weighted-f1-score-for-multi-class-classification",
+      "first_solved_at": "2026-06-02T15:51:35.300Z",
+      "last_pushed_at": "2026-06-02T15:51:35.300Z",
       "language": "python",
       "lines": 29
     }
