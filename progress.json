@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:39:57.843Z",
+  "generated_at": "2026-11-21T09:39:59.447Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -635,6 +635,32 @@
       "path": "problems/0039-implementation-of-log-softmax-function",
       "first_solved_at": "2026-03-26T08:31:12.358Z",
       "last_pushed_at": "2026-03-26T08:31:12.358Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-03-27T10:58:34.757Z",
+      "last_pushed_at": "2026-03-27T10:58:34.757Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-03-27T16:32:42.588Z",
+      "last_pushed_at": "2026-03-27T16:32:42.588Z",
       "language": "python",
       "lines": 6
     }
