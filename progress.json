@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:51:20.501Z",
+  "generated_at": "2026-11-23T13:51:22.557Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -1716,6 +1716,32 @@
       "last_pushed_at": "2026-07-24T15:08:20.547Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:132": {
+      "kind": "problem",
+      "id": "132",
+      "title": "Simulate Markov Chain Transitions",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/132",
+      "path": "problems/0132-simulate-markov-chain-transitions",
+      "first_solved_at": "2026-07-25T12:53:48.829Z",
+      "last_pushed_at": "2026-07-25T12:53:48.829Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:984": {
+      "kind": "problem",
+      "id": "984",
+      "title": "Sample Names from a Bigram Language Model",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/984",
+      "path": "problems/0984-sample-names-from-a-bigram-language-model",
+      "first_solved_at": "2026-07-25T16:14:33.373Z",
+      "last_pushed_at": "2026-07-25T16:14:33.373Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
