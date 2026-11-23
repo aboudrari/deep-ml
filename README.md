@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**146** solved · 140 problems · 6 labs · 0 math
+**150** solved · 144 problems · 6 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-03-23 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-03-23 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-03-26 | [solution](problems/0042-implement-relu-activation-function) |
+| [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-07-30 | [solution](problems/1226-implement-relu-and-leaky-relu) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-03-24 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-07-14 | [solution](problems/0097-implement-the-elu-activation-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-05-28 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
@@ -86,6 +87,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Macro-Average Accuracy Across Benchmark Subtasks](https://www.deep-ml.com/problems/797) | easy | 2026-05-10 | [solution](problems/0797-macro-average-accuracy-across-benchmark-subtasks) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-04-20 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-03-01 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-07-30 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2026-05-14 | [solution](problems/0108-measure-disorder-in-apple-colors) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-07-10 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-11-20 | [solution](problems/0146-momentum-optimizer) |
@@ -142,6 +144,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MLP Character-Level Language Model Forward Pass](https://www.deep-ml.com/problems/989) | medium | 2026-07-20 | [solution](problems/0989-mlp-character-level-language-model-forward-pass) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-03-10 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-07-21 | [solution](problems/0914-numerically-stable-cross-entropy) |
+| [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-07-30 | [solution](problems/1227-numerically-stable-softmax) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-07-11 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-05-26 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Sample from MLP Character Language Model](https://www.deep-ml.com/problems/991) | medium | 2026-07-23 | [solution](problems/0991-sample-from-mlp-character-language-model) |
@@ -150,6 +153,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-07-09 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Train Bigram Language Model as a Neural Network](https://www.deep-ml.com/problems/988) | medium | 2026-07-28 | [solution](problems/0988-train-bigram-language-model-as-a-neural-network) |
+| [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-07-30 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Weighted F1 Score for Multi-Class Classification](https://www.deep-ml.com/problems/835) | medium | 2026-06-02 | [solution](problems/0835-weighted-f1-score-for-multi-class-classification) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-06-18 | [solution](problems/0020-decision-tree-learning) |
 
