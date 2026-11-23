@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:51:28.595Z",
+  "generated_at": "2026-11-23T13:51:30.719Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -1820,6 +1820,84 @@
       "last_pushed_at": "2026-07-28T14:13:52.932Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:1220": {
+      "kind": "problem",
+      "id": "1220",
+      "title": "Create and Inspect a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1220",
+      "path": "problems/1220-create-and-inspect-a-tensor",
+      "first_solved_at": "2026-07-29T10:24:32.333Z",
+      "last_pushed_at": "2026-07-29T10:24:32.333Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1221": {
+      "kind": "problem",
+      "id": "1221",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1221",
+      "path": "problems/1221-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-07-29T10:35:20.905Z",
+      "last_pushed_at": "2026-07-29T10:35:20.905Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:1222": {
+      "kind": "problem",
+      "id": "1222",
+      "title": "Gradient of a Square with Autograd",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1222",
+      "path": "problems/1222-gradient-of-a-square-with-autograd",
+      "first_solved_at": "2026-07-29T11:19:32.311Z",
+      "last_pushed_at": "2026-07-29T11:19:32.311Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:1223": {
+      "kind": "problem",
+      "id": "1223",
+      "title": "Gradient of a Weighted Sum of Squares",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1223",
+      "path": "problems/1223-gradient-of-a-weighted-sum-of-squares",
+      "first_solved_at": "2026-07-29T11:45:32.552Z",
+      "last_pushed_at": "2026-07-29T11:45:32.552Z",
+      "language": "python",
+      "lines": 15
+    },
+    "lab:9ff596ea-672e-4101-9ce4-0856c55b62c9": {
+      "kind": "lab",
+      "id": "9ff596ea-672e-4101-9ce4-0856c55b62c9",
+      "title": "Fit Linear Regression with Autograd",
+      "difficulty": "medium",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/9ff596ea-672e-4101-9ce4-0856c55b62c9",
+      "path": "labs/9ff596ea-672e-4101-9ce4-0856c55b62c9-fit-linear-regression-with-autograd",
+      "first_solved_at": "2026-07-29T14:15:09.717Z",
+      "last_pushed_at": "2026-07-29T14:15:09.717Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:1224": {
+      "kind": "problem",
+      "id": "1224",
+      "title": "Single Linear Neuron Forward",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1224",
+      "path": "problems/1224-single-linear-neuron-forward",
+      "first_solved_at": "2026-07-29T18:09:47.708Z",
+      "last_pushed_at": "2026-07-29T18:09:47.708Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
