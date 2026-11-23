@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:51:14.450Z",
+  "generated_at": "2026-11-23T13:51:16.433Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -1638,6 +1638,32 @@
       "last_pushed_at": "2026-07-21T14:51:10.962Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:990": {
+      "kind": "problem",
+      "id": "990",
+      "title": "Learning Rate Range Finder for Linear Regression",
+      "difficulty": "easy",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/990",
+      "path": "problems/0990-learning-rate-range-finder-for-linear-regression",
+      "first_solved_at": "2026-07-22T08:38:21.122Z",
+      "last_pushed_at": "2026-07-22T08:38:21.122Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:275": {
+      "kind": "problem",
+      "id": "275",
+      "title": "Implement Stratified Train-Test Split",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/275",
+      "path": "problems/0275-implement-stratified-train-test-split",
+      "first_solved_at": "2026-07-22T15:03:43.810Z",
+      "last_pushed_at": "2026-07-22T15:03:43.810Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }

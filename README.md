@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**126** solved · 122 problems · 4 labs · 0 math
+**128** solved · 124 problems · 4 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -74,6 +74,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-05-25 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Laplace Smoothing for Bigram Probabilities](https://www.deep-ml.com/problems/987) | easy | 2026-07-11 | [solution](problems/0987-laplace-smoothing-for-bigram-probabilities) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-05-14 | [solution](problems/0044-leaky-relu-activation-function) |
+| [Learning Rate Range Finder for Linear Regression](https://www.deep-ml.com/problems/990) | easy | 2026-07-22 | [solution](problems/0990-learning-rate-range-finder-for-linear-regression) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-04-09 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-03-13 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-03-12 | [solution](problems/0014-linear-regression-using-normal-equation) |
@@ -119,6 +120,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-05-13 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-05-22 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-05-24 | [solution](problems/0306-implement-soft-voting-classifier) |
+| [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-07-22 | [solution](problems/0275-implement-stratified-train-test-split) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-07-10 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-06-05 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Macro F1 Score for Multi-Class Classification](https://www.deep-ml.com/problems/833) | medium | 2026-05-10 | [solution](problems/0833-macro-f1-score-for-multi-class-classification) |
