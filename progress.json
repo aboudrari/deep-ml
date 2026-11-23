@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:51:06.588Z",
+  "generated_at": "2026-11-23T13:51:08.483Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -1521,6 +1521,58 @@
       "last_pushed_at": "2026-07-12T08:14:07.410Z",
       "language": "python",
       "lines": 65
+    },
+    "problem:954": {
+      "kind": "problem",
+      "id": "954",
+      "title": "Construct Next-Token Prediction Targets",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/954",
+      "path": "problems/0954-construct-next-token-prediction-targets",
+      "first_solved_at": "2026-07-14T08:22:00.726Z",
+      "last_pushed_at": "2026-07-14T08:22:00.726Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:945": {
+      "kind": "problem",
+      "id": "945",
+      "title": "Token Embedding Lookup Table",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/945",
+      "path": "problems/0945-token-embedding-lookup-table",
+      "first_solved_at": "2026-07-14T09:02:08.077Z",
+      "last_pushed_at": "2026-07-14T09:02:08.077Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:947": {
+      "kind": "problem",
+      "id": "947",
+      "title": "Embedding Layer as One-Hot Matrix Multiplication",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/947",
+      "path": "problems/0947-embedding-layer-as-one-hot-matrix-multiplication",
+      "first_solved_at": "2026-07-14T09:54:47.661Z",
+      "last_pushed_at": "2026-07-14T09:54:47.661Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:97": {
+      "kind": "problem",
+      "id": "97",
+      "title": "Implement the ELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/97",
+      "path": "problems/0097-implement-the-elu-activation-function",
+      "first_solved_at": "2026-07-14T14:32:02.035Z",
+      "last_pushed_at": "2026-07-14T14:32:02.035Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
