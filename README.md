@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**116** solved · 114 problems · 2 labs · 0 math
+**117** solved · 114 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -133,6 +133,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-07-11 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-07-10 | [solution](labs/0018-train-a-linear-regression-model) |
+| [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-07-12 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
 
 ---
 
