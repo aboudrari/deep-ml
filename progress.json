@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:51:10.498Z",
+  "generated_at": "2026-11-23T13:51:12.356Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -1586,6 +1586,32 @@
       "last_pushed_at": "2026-07-17T07:39:14.953Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:882": {
+      "kind": "problem",
+      "id": "882",
+      "title": "Add a Bias Vector to a Batch via Broadcasting",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/882",
+      "path": "problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting",
+      "first_solved_at": "2026-07-20T14:30:53.857Z",
+      "last_pushed_at": "2026-07-20T14:30:53.857Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:989": {
+      "kind": "problem",
+      "id": "989",
+      "title": "MLP Character-Level Language Model Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/989",
+      "path": "problems/0989-mlp-character-level-language-model-forward-pass",
+      "first_solved_at": "2026-07-20T17:32:20.869Z",
+      "last_pushed_at": "2026-07-20T17:32:20.869Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
