@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**135** solved · 131 problems · 4 labs · 0 math
+**136** solved · 132 problems · 4 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Character-Level Tokenizer (stoi/itos/BOS)](https://www.deep-ml.com/problems/374) | easy | 2026-07-10 | [solution](problems/0374-character-level-tokenizer-stoi-itos-bos) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-07-17 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-03-17 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
+| [Compute TPR and FPR from Classifications](https://www.deep-ml.com/problems/1217) | easy | 2026-07-27 | [solution](problems/1217-compute-tpr-and-fpr-from-classifications) |
 | [Construct Next-Token Prediction Targets](https://www.deep-ml.com/problems/954) | easy | 2026-07-14 | [solution](problems/0954-construct-next-token-prediction-targets) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-03-08 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-06-30 | [solution](problems/1107-count-rows-per-group) |
