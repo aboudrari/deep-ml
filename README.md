@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**128** solved · 124 problems · 4 labs · 0 math
+**130** solved · 126 problems · 4 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -121,6 +121,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-05-22 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-05-24 | [solution](problems/0306-implement-soft-voting-classifier) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-07-22 | [solution](problems/0275-implement-stratified-train-test-split) |
+| [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-07-23 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-07-10 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-06-05 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Macro F1 Score for Multi-Class Classification](https://www.deep-ml.com/problems/833) | medium | 2026-05-10 | [solution](problems/0833-macro-f1-score-for-multi-class-classification) |
@@ -132,6 +133,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-07-21 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-07-11 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-05-26 | [solution](problems/0849-precision-and-recall-at-threshold) |
+| [Sample from MLP Character Language Model](https://www.deep-ml.com/problems/991) | medium | 2026-07-23 | [solution](problems/0991-sample-from-mlp-character-language-model) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-07-09 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Weighted F1 Score for Multi-Class Classification](https://www.deep-ml.com/problems/835) | medium | 2026-06-02 | [solution](problems/0835-weighted-f1-score-for-multi-class-classification) |
