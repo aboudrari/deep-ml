@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:51:18.549Z",
+  "generated_at": "2026-11-23T13:51:20.501Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -1690,6 +1690,32 @@
       "last_pushed_at": "2026-07-23T09:32:22.076Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:377": {
+      "kind": "problem",
+      "id": "377",
+      "title": "Linear Learning Rate Decay",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/377",
+      "path": "problems/0377-linear-learning-rate-decay",
+      "first_solved_at": "2026-07-24T08:28:59.905Z",
+      "last_pushed_at": "2026-07-24T08:28:59.905Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:197": {
+      "kind": "problem",
+      "id": "197",
+      "title": "Gradient Clipping by Global Norm",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/197",
+      "path": "problems/0197-gradient-clipping-by-global-norm",
+      "first_solved_at": "2026-07-24T15:08:20.547Z",
+      "last_pushed_at": "2026-07-24T15:08:20.547Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
