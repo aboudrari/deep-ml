@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:51:26.607Z",
+  "generated_at": "2026-11-23T13:51:28.595Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -1768,6 +1768,58 @@
       "last_pushed_at": "2026-07-27T12:36:23.327Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:102": {
+      "kind": "problem",
+      "id": "102",
+      "title": "Implement the Swish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/102",
+      "path": "problems/0102-implement-the-swish-activation-function",
+      "first_solved_at": "2026-07-28T08:32:53.499Z",
+      "last_pushed_at": "2026-07-28T08:32:53.499Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:87": {
+      "kind": "problem",
+      "id": "87",
+      "title": "Adam Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/87",
+      "path": "problems/0087-adam-optimizer",
+      "first_solved_at": "2026-07-28T10:18:48.918Z",
+      "last_pushed_at": "2026-07-28T10:18:48.918Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:988": {
+      "kind": "problem",
+      "id": "988",
+      "title": "Train Bigram Language Model as a Neural Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/988",
+      "path": "problems/0988-train-bigram-language-model-as-a-neural-network",
+      "first_solved_at": "2026-07-28T12:20:33.375Z",
+      "last_pushed_at": "2026-07-28T12:20:33.375Z",
+      "language": "python",
+      "lines": 28
+    },
+    "lab:19": {
+      "kind": "lab",
+      "id": "19",
+      "title": "Build a Tokenizer for Language Modeling",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/labs/19",
+      "path": "labs/0019-build-a-tokenizer-for-language-modeling",
+      "first_solved_at": "2026-07-28T14:13:52.932Z",
+      "last_pushed_at": "2026-07-28T14:13:52.932Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
