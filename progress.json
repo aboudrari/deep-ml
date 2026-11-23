@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:51:02.048Z",
+  "generated_at": "2026-11-23T13:51:04.476Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -1404,6 +1404,110 @@
       "last_pushed_at": "2026-07-10T21:21:32.103Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:986": {
+      "kind": "problem",
+      "id": "986",
+      "title": "Average Negative Log-Likelihood for Bigram Model",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/986",
+      "path": "problems/0986-average-negative-log-likelihood-for-bigram-model",
+      "first_solved_at": "2026-07-11T09:22:23.259Z",
+      "last_pushed_at": "2026-07-11T09:22:23.259Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:987": {
+      "kind": "problem",
+      "id": "987",
+      "title": "Laplace Smoothing for Bigram Probabilities",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/987",
+      "path": "problems/0987-laplace-smoothing-for-bigram-probabilities",
+      "first_solved_at": "2026-07-11T09:45:24.678Z",
+      "last_pushed_at": "2026-07-11T09:45:24.678Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-07-11T12:12:06.979Z",
+      "last_pushed_at": "2026-07-11T12:12:06.979Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:264": {
+      "kind": "problem",
+      "id": "264",
+      "title": "Implement the Tanh Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/264",
+      "path": "problems/0264-implement-the-tanh-activation-function",
+      "first_solved_at": "2026-07-11T12:22:19.885Z",
+      "last_pushed_at": "2026-07-11T12:22:19.885Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-07-11T12:40:32.185Z",
+      "last_pushed_at": "2026-07-11T12:40:32.185Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:99": {
+      "kind": "problem",
+      "id": "99",
+      "title": "Implement the Softplus Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/99",
+      "path": "problems/0099-implement-the-softplus-activation-function",
+      "first_solved_at": "2026-07-11T12:43:50.859Z",
+      "last_pushed_at": "2026-07-11T12:43:50.859Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:371": {
+      "kind": "problem",
+      "id": "371",
+      "title": "Calculate Number of Parameters in Neural Network",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/371",
+      "path": "problems/0371-calculate-number-of-parameters-in-neural-network",
+      "first_solved_at": "2026-07-11T13:18:33.699Z",
+      "last_pushed_at": "2026-07-11T13:18:33.699Z",
+      "language": "python",
+      "lines": 17
+    },
+    "lab:13": {
+      "kind": "lab",
+      "id": "13",
+      "title": "PyTorch: Build a Complete Training Loop",
+      "difficulty": "easy",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/13",
+      "path": "labs/0013-pytorch-build-a-complete-training-loop",
+      "first_solved_at": "2026-07-11T14:01:53.455Z",
+      "last_pushed_at": "2026-07-11T14:01:53.455Z",
+      "language": "python",
+      "lines": 57
     }
   }
 }

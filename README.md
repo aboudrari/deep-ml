@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**108** solved · 107 problems · 1 labs · 0 math
+**116** solved · 114 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Average Negative Log-Likelihood for Bigram Model](https://www.deep-ml.com/problems/986) | easy | 2026-07-11 | [solution](problems/0986-average-negative-log-likelihood-for-bigram-model) |
 | [Average per group](https://www.deep-ml.com/problems/1108) | easy | 2026-06-30 | [solution](problems/1108-average-per-group) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-03-27 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-03-30 | [solution](problems/0104-binary-classification-with-logistic-regression) |
@@ -26,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2026-05-06 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-03-19 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-03-04 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-07-11 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-03-14 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-03-21 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-03-21 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
@@ -36,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-03-08 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-06-30 | [solution](problems/1107-count-rows-per-group) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-03-10 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-07-11 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-03-10 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-05-11 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-03-02 | [solution](problems/0083-dot-product-calculator) |
@@ -58,10 +61,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-03-26 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-03-24 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-05-28 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
+| [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2026-07-11 | [solution](problems/0099-implement-the-softplus-activation-function) |
 | [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-05-21 | [solution](problems/0100-implement-the-softsign-activation-function) |
+| [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-07-11 | [solution](problems/0264-implement-the-tanh-activation-function) |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-05-31 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-03-26 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-05-25 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
+| [Laplace Smoothing for Bigram Probabilities](https://www.deep-ml.com/problems/987) | easy | 2026-07-11 | [solution](problems/0987-laplace-smoothing-for-bigram-probabilities) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-05-14 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-04-09 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-03-13 | [solution](problems/0015-linear-regression-using-gradient-descent) |
@@ -114,6 +120,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-03-06 | [solution](problems/0007-matrix-transformation) |
 | [Micro F1 Score for Multi-Label Classification](https://www.deep-ml.com/problems/834) | medium | 2026-05-18 | [solution](problems/0834-micro-f1-score-for-multi-label-classification) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-03-10 | [solution](problems/0080-normal-distribution-pdf-calculator) |
+| [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-07-11 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-05-26 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-07-09 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
@@ -124,6 +131,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-07-11 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-07-10 | [solution](labs/0018-train-a-linear-regression-model) |
 
 ---
