@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:51:12.356Z",
+  "generated_at": "2026-11-23T13:51:14.450Z",
   "items": {
     "problem:127": {
       "kind": "problem",
@@ -1612,6 +1612,32 @@
       "last_pushed_at": "2026-07-20T17:32:20.869Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:914": {
+      "kind": "problem",
+      "id": "914",
+      "title": "Numerically Stable Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/914",
+      "path": "problems/0914-numerically-stable-cross-entropy",
+      "first_solved_at": "2026-07-21T10:49:29.520Z",
+      "last_pushed_at": "2026-07-21T10:49:29.520Z",
+      "language": "python",
+      "lines": 14
+    },
+    "lab:12": {
+      "kind": "lab",
+      "id": "12",
+      "title": "PyTorch: Implement Your Own Gradient Descent Training Step",
+      "difficulty": "medium",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/12",
+      "path": "labs/0012-pytorch-implement-your-own-gradient-descent-training-step",
+      "first_solved_at": "2026-07-21T14:51:10.962Z",
+      "last_pushed_at": "2026-07-21T14:51:10.962Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
