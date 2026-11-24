@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**152** solved · 146 problems · 6 labs · 0 math
+**153** solved · 147 problems · 6 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -154,6 +154,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-07-25 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-07-09 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-11-24 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Train Bigram Language Model as a Neural Network](https://www.deep-ml.com/problems/988) | medium | 2026-07-28 | [solution](problems/0988-train-bigram-language-model-as-a-neural-network) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-07-30 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Weighted F1 Score for Multi-Class Classification](https://www.deep-ml.com/problems/835) | medium | 2026-06-02 | [solution](problems/0835-weighted-f1-score-for-multi-class-classification) |
