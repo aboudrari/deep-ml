@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**151** solved · 145 problems · 6 labs · 0 math
+**152** solved · 146 problems · 6 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -133,6 +133,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-06-04 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-05-13 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-05-22 | [solution](problems/0276-implement-roc-curve-calculation) |
+| [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-11-24 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-05-24 | [solution](problems/0306-implement-soft-voting-classifier) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-07-22 | [solution](problems/0275-implement-stratified-train-test-split) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-07-23 | [solution](problems/0192-implement-the-huber-loss-function) |
