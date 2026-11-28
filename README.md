@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**155** solved · 149 problems · 6 labs · 0 math
+**156** solved · 150 problems · 6 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -109,6 +109,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-04-07 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-03-28 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-06-30 | [solution](problems/1104-sort-results-with-order-by) |
+| [Tinygrad: Implement Dropout from Scratch](https://www.deep-ml.com/problems/922) | easy | 2026-11-28 | [solution](problems/0922-tinygrad-implement-dropout-from-scratch) |
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-07-14 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-06-30 | [solution](problems/1106-top-n-with-limit) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-03-21 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
