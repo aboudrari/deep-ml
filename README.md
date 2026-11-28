@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**154** solved · 148 problems · 6 labs · 0 math
+**155** solved · 149 problems · 6 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -123,6 +123,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-03-25 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-03-20 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-04-01 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
+| [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-11-28 | [solution](problems/0151-dropout-layer) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-11-20 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-03-09 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-07-24 | [solution](problems/0197-gradient-clipping-by-global-norm) |
